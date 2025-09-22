@@ -76,11 +76,6 @@ The system captures PPG (photoplethysmography) signals, filters and amplifies th
 
 ---
 
-## 📹 Demo Video (Optional)  
-*(Add a GIF or YouTube link showing live BPM monitoring here)*  
-
----
-
 ## 🚀 Future Improvements  
 - Add **calibrated SpO₂ calculation** (dual-wavelength red/IR LEDs).  
 - Integrate **OLED display** for standalone operation.  
